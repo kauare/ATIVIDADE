@@ -1,4 +1,4 @@
 Primeiro commit da atividade alura!
 encerrando primeiro parte do curso 
-Segunda alteração no codigo teste
+Alteraçaõ da issue na terecira linha na anova branch
 Alteração de arquivo pelo github
